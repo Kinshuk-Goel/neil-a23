@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+A casual programmer mainly learning React.js, Java, and Git. 
+
+About me
+I have been coding a lot since this March, and was primarily a web developer for The Common Health Project for six months. As of now, I am learning JS and Java. 
+
+Projects
+CommonHealthProject - Collaborated with a group of web developers using git. Heavily used HTML and CSS, as well as some basic JS and JQuery. 
+
 <!--
 **neil-a23/neil-a23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
