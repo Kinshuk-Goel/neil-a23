@@ -2,7 +2,7 @@
 
 A casual programmer mainly learning React.js, Java, and Git. 
 
-About me
+About me:
 I have been coding a lot since this March, and was primarily a web developer for The Common Health Project for six months. As of now, I am learning JS and Java. 
 
 Projects: 
